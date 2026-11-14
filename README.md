@@ -11,7 +11,7 @@ Hands-on lab documentation from my TryHackMe learning paths, written in my own w
 
 | Room | Key skills | Status |
 |---|---|---|
-| [PC Repair Lab](pre-security/pc-repair-lab.md) | Hardware troubleshooting, component diagnosis & replacement | Not started |
+| [PC Repair Lab](pre-security/pc-repair-lab.md) | Hardware troubleshooting, component diagnosis & replacement | Completed — Nov 13, 2026 |
 | [Linux Fundamentals Part 1](pre-security/linux-fundamentals-part-1.md) | CLI navigation, filesystem basics | Not started |
 | [Linux Fundamentals Part 2](pre-security/linux-fundamentals-part-2.md) | SSH, file operations, permissions | Not started |
 | [Linux Fundamentals Part 3](pre-security/linux-fundamentals-part-3.md) | Utilities, package management, processes | Not started |
@@ -25,7 +25,6 @@ Hands-on lab documentation from my TryHackMe learning paths, written in my own w
 
 | Room | Key skills | Status |
 |---|---|---|
-| [PC Repair Lab (Intro to Cyber Security)](cyber-security-101/pc-repair-lab.md) | Hardware troubleshooting, component diagnosis & replacement | Completed — Nov 13, 2026 |
 | [Windows Fundamentals 1](cyber-security-101/windows-fundamentals-1.md) | Windows OS, file system, UAC, Control Panel | Not started |
 | [Windows Fundamentals 2](cyber-security-101/windows-fundamentals-2.md) | System configuration, utilities, Registry | Not started |
 | [Windows Fundamentals 3](cyber-security-101/windows-fundamentals-3.md) | Windows security, Defender, firewall | Not started |
