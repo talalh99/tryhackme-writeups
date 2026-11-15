@@ -3,7 +3,7 @@
 Hands-on lab documentation from my TryHackMe learning paths, written in my own words as I complete each room.
 
 - **GitHub:** [github.com/talalh99](https://github.com/talalh99)
-- **TryHackMe profile:** *(paste your profile link here)*
+- **TryHackMe profile:** [tryhackme.com/p/tt4lal](https://tryhackme.com/p/tt4lal) — my badges, certificates and completed rooms are all listed on my profile.
 
 ---
 
