@@ -12,9 +12,9 @@ Hands-on lab documentation from my TryHackMe learning paths, written in my own w
 | Room | Key skills | Status |
 |---|---|---|
 | [PC Repair Lab](pre-security/pc-repair-lab.md) | Hardware troubleshooting, component diagnosis & replacement | Completed — Nov 13, 2026 |
-| [Linux Fundamentals Part 1](pre-security/linux-fundamentals-part-1.md) | CLI navigation, filesystem basics | Not started |
-| [Linux Fundamentals Part 2](pre-security/linux-fundamentals-part-2.md) | SSH, file operations, permissions | Not started |
-| [Linux Fundamentals Part 3](pre-security/linux-fundamentals-part-3.md) | Utilities, package management, processes | Not started |
+| [Linux CLI Basics](pre-security/linux-cli-basics.md) | Shell commands, filesystem navigation | Not started |
+| [Windows CLI Basics](pre-security/windows-cli-basics.md) | Command Prompt basics, system commands | Not started |
+| [Operating System Security](pre-security/operating-system-security.md) | OS hardening, updates, access control | Not started |
 | [What is Networking?](pre-security/what-is-networking.md) | IP/MAC addressing, ping, ICMP | Not started |
 | [Intro to LAN](pre-security/intro-to-lan.md) | Topologies, switches, routers, ARP, DHCP | Not started |
 | [OSI Model](pre-security/osi-model.md) | 7 layers, encapsulation, protocols per layer | Not started |
