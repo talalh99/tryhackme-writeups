@@ -74,5 +74,9 @@ The final task — `find` locates `day1_report.txt`, and `cd` aimed at the file 
 
 ![find day1_report.txt and the cd error](images/linux-cli-11-find-day1.png)
 
+Working through the errors — fixing the path, getting into the archive folder, and completing the room:
+
+![Fixing the errors and completing the room](images/linux-cli-12-day1-complete.png)
+
 ## 4. Key takeaway
 A small set of commands — `pwd`, `ls`, `cd`, `cat`, `find` — does most day-to-day terminal work, and the error messages are the teacher: "No such file or directory" and "Not a directory" are path problems with exact fixes — be in the right folder, or use `find` and the full path. That habit — read the error, diagnose, correct — is the core of real IT support work, where locating files, checking system details, and reading permissions on a Linux box are daily tasks, and it is the foundation the rest of this path (and Linux system administration generally) builds on.
