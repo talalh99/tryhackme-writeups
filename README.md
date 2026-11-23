@@ -14,7 +14,7 @@ Hands-on lab documentation from my TryHackMe learning paths, written in my own w
 | [PC Repair Lab](pre-security/pc-repair-lab.md) | Hardware troubleshooting, component diagnosis & replacement | Completed — Nov 13, 2026 |
 | [Linux CLI Basics](pre-security/linux-cli-basics.md) | Shell commands, filesystem navigation | Completed — Nov 21, 2026 |
 | [Windows CLI Basics](pre-security/windows-cli-basics.md) | Command Prompt basics, system commands | Completed — Nov 22, 2026 |
-| [Operating System Security](pre-security/operating-system-security.md) | OS hardening, updates, access control | Not started |
+| [Operating System Security](pre-security/operating-system-security.md) | OS hardening, updates, access control |Completed — Nov 22, 2026|
 | [What is Networking?](pre-security/what-is-networking.md) | IP/MAC addressing, ping, ICMP | Not started |
 | [Intro to LAN](pre-security/intro-to-lan.md) | Topologies, switches, routers, ARP, DHCP | Not started |
 | [OSI Model](pre-security/osi-model.md) | 7 layers, encapsulation, protocols per layer | Not started |
